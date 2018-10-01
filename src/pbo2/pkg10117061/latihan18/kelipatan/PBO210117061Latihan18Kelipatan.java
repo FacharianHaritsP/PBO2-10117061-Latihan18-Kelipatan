@@ -6,8 +6,10 @@
 package pbo2.pkg10117061.latihan18.kelipatan;
 
 /**
- *
- * @author Notebook
+ *Nama              :Fachrian Harits Pratama
+ *NIM               :10117061  
+ *kelas             :if2
+ *Deskripsi program :menampilkan kelipatan
  */
 public class PBO210117061Latihan18Kelipatan {
 
